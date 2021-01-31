@@ -1,10 +1,8 @@
 Creat a new branch is quick and simple.
-use ssh remote git
 Git is a distributed version control system.
 Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks of changes.
 Creat a issue branch.
 new merge --ff strategy.
-add new line.
 to git pull.
